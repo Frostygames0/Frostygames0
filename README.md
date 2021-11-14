@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frostygames0
 - 👀 I’m interested in making mods and other projects
-- 🌱 I’m currently learning java and c++
+- 🌱 I know java, c# and a little of c++ and c
 - 📫 How to reach me no
 
 <!---
