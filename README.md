@@ -3,7 +3,7 @@
 - 🌱 I know Java, C# and a little of C++
 - 📫 How to reach me? You can't, I'm the best hider!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frostygames0)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frostygames0&hide=contribs,prs,stars&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Frostygames0/Frostygames0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
