@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frostygames0
 - 👀 I’m a hobby game developer! I make games and mods for them!
-- 🌱 I have 2(almost) years of Java and C#. Also I'm familiar with Python and C++
+- 🌱 I know Java and C#. Also I'm familiar with Python and C++
 - 📫 How to reach me? You can't :P
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frostygames0&hide=contribs,prs,stars&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
