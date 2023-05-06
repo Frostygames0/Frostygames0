@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frostygames0
-- 👀 I’m a hobby game developer! I make games and mods for them!
+- 👀 I’m a game and software developer! I make games and mods for them, also other types of software!
 - 🌱 I know Java and C#. Also I'm familiar with Python and C++
 - 📫 How to reach me? You can't :P
 
